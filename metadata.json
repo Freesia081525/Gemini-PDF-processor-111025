@@ -1,5 +1,5 @@
 {
-  "name": "Agentic Document Processor",
-  "description": "An AI-powered agentic system to upload, preview, and perform OCR on PDF documents. Users can select pages and choose from various LLM agents to analyze the extracted text, with results displayed on an interactive dashboard.",
+  "name": "AI Agent Pipeline",
+  "description": "A YAML-driven multi-agent AI pipeline with an interactive dashboard to process documents, execute sequential AI tasks, and visualize results. Features configurable agents for providers like Gemini and OpenAI, advanced PDF parsing, and a chat interface.",
   "requestFramePermissions": []
 }
