@@ -1,0 +1,5 @@
+{
+  "name": "Agentic Document Processor",
+  "description": "An AI-powered agentic system to upload, preview, and perform OCR on PDF documents. Users can select pages and choose from various LLM agents to analyze the extracted text, with results displayed on an interactive dashboard.",
+  "requestFramePermissions": []
+}
