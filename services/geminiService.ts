@@ -20,7 +20,7 @@ export async function performOcrOnPages(pages: PageData[]): Promise<string> {
   if (pages.length === 0) {
     return "";
   }
-  const model = 'gemini-2.5-flash-image';
+  const model = 'gemini-2.5-flash';
   
   const imageParts = pages.map(page => base64ToPart(page.imageDataUrl, 'image/png'));
   
